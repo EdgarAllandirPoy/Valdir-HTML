@@ -1,0 +1,52 @@
+
+.container {
+    position: fixed;
+    width: 1500px;
+    height: 370px;
+    background-color: rgb(11, 115, 35);
+}
+
+.container1 {
+    display: flex;
+    position: fixed;
+    width: 1500px;
+    height: 70px;
+    background-color: rgb(165, 27, 8);
+top: 42vh;
+justify-content: space-around;
+}
+
+.IMG {
+    
+    position: absolute;
+    width: 29vh;
+    height: 41vh;
+    left: 170vh;
+
+    background: url(image\ 3.png);
+}
+
+.IMG1 {
+    
+    position: absolute;
+    width: 29vh;
+    height: 41vh;
+    right: 170vh;
+
+    background: url(image\ 3.png);
+}
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.P {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    position: relative;
+    top: -30px;
+    
+
+}
