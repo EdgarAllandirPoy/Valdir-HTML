@@ -1,0 +1,22 @@
+h1 {
+    color:rgb(229, 179, 13);
+}
+h2 {
+    color:rgb(229, 179, 13);
+}
+ img{
+ border-radius: 30px ;
+}
+body { background-color: rgb(0, 0, 0); padding: 3px 6px }
+p {color: rgb(255, 255, 255); font-family: Georgia, 'Times New Roman', Times, serif ; text-align: center; }
+ol {color: rgb(255, 255, 255); font-family: Georgia, 'Times New Roman', Times, serif ; text-align: center; }
+Href {
+    color: crimson;
+}
+li {
+    color: rgb(229, 179, 13); font-family: Georgia, 'Times New Roman', Times, serif ; text-align: center;
+}
+label {
+    color: rgb(229, 179, 13); font-family: Georgia, 'Times New Roman', Times, serif ; text-align: center;
+}
+}
